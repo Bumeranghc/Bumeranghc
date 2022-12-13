@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ![Gitlab](https://img.shields.io/badge/-Gitlab-181717?style=flat-square&logo=gitlab)
 ![BitBucket](https://img.shields.io/badge/-BitBucket-181717?style=flat-square&logo=bitbucket)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![RADStudio](http://img.shields.io/badge/-RAD%20Studio-007ACC?style=flat-square&logo=embarcadero&logoColor=white
+![RAD Studio](http://img.shields.io/badge/-RAD%20Studio-007ACC?style=flat-square&logo=embarcadero&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-5391FE?style=flat-square&logo=gnubash&logoColor=white)
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
