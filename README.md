@@ -40,13 +40,15 @@ Here are some ideas to get you started:
 ![Linux](http://img.shields.io/badge/-Linux-0078D6?style=flat-square&logo=linux&logoColor=white)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%231A1918.svg?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-blue?logo=amazon&style=flat-square&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-blue?logo=google&style=flat-square&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-green?style=flat-square&logo=docker&logoColor=ffffff)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-green?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-green?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-green?style=flat-square&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/-Prometheus-orange?style=flat-square&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-orange?style=flat-square&logo=Grafana&logoColor=white)
 
 
 ---
