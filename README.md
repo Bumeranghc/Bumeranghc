@@ -41,6 +41,7 @@ Here are some ideas to get you started:
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%231A1918.svg?style=flat-square&logo=jenkins&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-blue?logo=amazon&style=flat-square&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-blue?logo=google&style=flat-square&logoColor=white)
