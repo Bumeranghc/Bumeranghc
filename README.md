@@ -43,6 +43,7 @@ Here are some ideas to get you started:
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-%231A1918.svg?style=flat-square&logo=jenkins&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-%231A1918.svg?style=flat-square&logo=vagrant&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=azure-devops&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-blue?logo=amazon&style=flat-square&logoColor=white)
 ![GCP](https://img.shields.io/badge/-GCP-blue?logo=googlecloud&style=flat-square&logoColor=white)
