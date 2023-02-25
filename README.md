@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a DevOps Engineer at Micro Focus
+## I'm a DevOps Engineer at OpenText
 
 - 🔭 I’m currently working on big cloud infrastructure for some exciting performance engineering cloud tool
 - 🌱 I’m currently learning DevOps Tools, Clouds, Go
