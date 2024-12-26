@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm a DevOps Engineer at OpenText
+## I'm a DevOps Engineer at CheckPoint
 
-- 🔭 I’m currently working on big cloud infrastructure for some exciting performance engineering cloud tool
+- 🔭 I’m currently working on DevOps processes for some network security toolset
 - 🌱 I’m currently learning DevOps Tools, Clouds, Go
 - ⚡ Fun fact: I'm a pilot too
 
